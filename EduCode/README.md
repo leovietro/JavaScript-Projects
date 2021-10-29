@@ -2,7 +2,7 @@ A web app that allows you to learn and teach programming languages!
 
 In the project main directory, follow these steps on your terminal:
 
-## 1º `npm install`
+### 1º `npm install`
 
 ### 2º `cd client`
 
