@@ -1,17 +1,17 @@
 A web app that allows you to learn and teach programming languages!
 
-In the project main directory, follow the commands:
+In the project main directory, follow these steps on your terminal:
 
-### `npm install`
+## 1º `npm install`
 
-### `cd client`
+### 2º `cd client`
 
-### `npm install`
+### 3º `npm install`
 
-### `cd ../api`
+### 4º `cd ../api`
 
-### `npm install`
+### 5º `npm install`
 
-### `cd ../`
+### 6º `cd ../`
 
-### `npm start`
+### 7º `npm start`
