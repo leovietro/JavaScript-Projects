@@ -1,0 +1,20 @@
+{
+    "name": "node-react",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "npm run dev",
+        "client": "cd client && npm start",
+        "server": "cd api && node index.js",
+        "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+    },
+    "dependencies": {
+        "express": "^4.16.2",
+        "throng": "^5.0.0"
+    },
+    "devDependencies": {
+        "concurrently": "^3.6.1"
+    },
+    "engines": {
+        "node": "14.18.1"
+    }
+}
