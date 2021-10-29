@@ -1,6 +1,5 @@
 # A web app that allows you to learn and teach programming languages!
-
-# In the project main directory, follow these steps on your terminal:
+## In the project main directory, follow these steps on your terminal:
 
 ### 1º `npm install`
 
