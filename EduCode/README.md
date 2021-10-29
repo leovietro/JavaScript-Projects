@@ -1,4 +1,4 @@
-# A web app that allows you to learn and teach programming languages!
+# A web app that allows you to learn and teach programming languages using a REST API!
 ## In the project main directory, follow these steps on your terminal:
 
 ### 1º `npm install`
